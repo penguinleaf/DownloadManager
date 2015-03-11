@@ -1,2 +1,2 @@
 # DownloadManager
-Python package for simple, threaded downloading of web resources
+Python package for lightweight threaded bulk downloading
