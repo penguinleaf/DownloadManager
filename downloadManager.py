@@ -29,7 +29,7 @@ from cookielib import CookieJar
 __author__ = "Chris Dobson"
 __copyright__ = "Copyright 2015, 8906386 CANADA LIMITED"
 __credits__ = ["Chris Dobson"]
-__license__ = "Propritary"
+__license__ = "Apache License Version 2.0"
 __version__ = "1.0.0"
 __maintainer__ = "Chris Dobson"
 __email__ = "chris@penguinleaf.com"
